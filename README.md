@@ -4,3 +4,5 @@ The WebstormProj folder is the front-end website, which communicates to the back
 The backend proxy makes a request to see if the IP address is in a whitelisted country.
 	If it is, that user can purchase a WHO-ver Board.
 	The whitelist is stored in a Usergrid database.
+	
+Members: Anthony Areniego, Bill Adona, Duc Le, Jacob Graves, Kevin Yang
